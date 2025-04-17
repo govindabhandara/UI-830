@@ -1,0 +1,49 @@
+Tags Categories 
+Doc tags 
+Structure tags
+Text formatting tags 
+Image tags
+Link tags 
+List tags
+Table tags 
+form tags 
+frame tags 
+HTML5 new tags 
+
+<html> 
+<head> 
+head contains 5 tags
+title:
+meta : description , SEO, 
+style/link : CSS
+Script: Java Script
+</head>
+
+Strucutre Tags 
+div, section, article, aside, header,footer
+
+text formatting tags:
+p, sapan, i, b, strong, h1-h6
+
+Image tags:
+<img />
+
+Link tags: 
+<a> </a>
+
+List Tags:
+<ul> <ol> <li>
+
+Table tags:
+<table> <thead> <tbody> <th> <tr> <td>
+
+form tags:
+<form> <label> <button> <input> || <select> <option> || <textarea>
+
+frame tags:
+<iframe>
+
+HTML5 New tags:
+<audio> <video> <canvas> <svg> || <nav> <mark> <address> || <article>
+
+Type attribute values:

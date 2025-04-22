@@ -47,3 +47,4 @@ HTML5 New tags:
 <audio> <video> <canvas> <svg> || <nav> <mark> <address> || <article>
 
 Type attribute values:
+

@@ -1,0 +1,16 @@
+/*  CSS :
+    1. Style Reusability
+    2. Readability
+    3. Modularity
+    4. page will load faster
+    5. Platform Independent & portable 
+
+*/
+
+h1,h2 {
+    background-color: red;
+    text-align: center;
+}
+p {
+    background-color: yellow;
+}

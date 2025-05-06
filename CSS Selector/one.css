@@ -1,0 +1,32 @@
+/* 
+Types of Selector : Group of styles for tags 
+    1. Tags/Element Selector
+    2. Group of Tag Selector
+    3. Class Selector (.)
+    4. id Selector (#)
+    5. Group of tags,class & id selector  
+    6. Attribute selector([])
+    7. universal selector(*) 
+*/
+h1 {
+    background-color: yellow;
+}
+#abc {
+    background-color: aqua; /* id Selector */
+}
+#xyz,.tab,h1 {                  
+    background-color: brown; /* Group of tag, class & id selector */
+}
+.rm {
+    background-color: red; /* Class Selector */
+}
+.sharuk {
+    background-color: yellow;   /* Class Selector */
+}
+.ab {
+    background-color: gold; /* Class Selector */
+}
+.kk {
+    background-color: blue; /* Class Selector */
+    font-size: large;
+}
